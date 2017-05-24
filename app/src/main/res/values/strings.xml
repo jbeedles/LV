@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">Liverpool Victoria</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <!-- Main landing page [CHAR LIMIT=20] -->
+    <string name="main_landing">Liverpool Victoria</string>
+
+    <!-- welcome message [CHAR LIMIT=20] -->
+    <string name="welcome_text">Welcome to the LV= app</string>
+    <string name="welcome_subtext">Your current policies are listed below:</string>
+
+    <!-- Category name for the vocabulary words for Phrases [CHAR LIMIT=20] -->
+    <string name="car_insurance">LV= Car Insurance</string>
+    <string name="car_policy_number">21000000001</string>
+    <string name="car_details">VW Golf 1.6 - HG54 XCL</string>
+
+    <!-- Car Page -->
+    <string name="car_policy_details">Policy number: </string>
+    <string name="vehicle_details">Vehicle details: </string>
+    <string name="vehicle_cover_start">Vehicle cover start date: </string>
+    <string name="vehicle_cover_end">Vehicle cover end date: </string>
+    <string name="vehicle_addons">Vehicle cover addons: </string>
+    <string name="car_make">VW Golf 1.6 TDi</string>
+    <string name="car_reg">HG54 XCL</string>
+    <string name="car_year">2014</string>
+    <string name="car_colour">Sky blue</string>
+    <string name="car_start">10-01-2017</string>
+    <string name="car_end">09-01-2018</string>
+    <string name="car_addon1">Motor legal nsurance</string>
+    <string name="car_addon2">Courtesy car</string>
+    <string name="car_addon3">Protected no claims discount</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="home_insurance">LV Home Insurance</string>
+    <string name="home_policy_number">21000000002</string>
+    <string name="home_address">96 Farham Road, Poole, BH12 1PS</string>
+
+    <!-- House Page -->
+    <string name="home_policy_details">Policy number: </string>
+    <string name="property_details">Property details: </string>
+    <string name="property_cover_start">Cover start date: </string>
+    <string name="property_cover_end">Cover end date: </string>
+    <string name="property_cover_details">Cover details: </string>
+    <string name="home_type">Detached house</string>
+    <string name="home_street">96 Farnham Road</string>
+    <string name="home_town">Poole</string>
+    <string name="home_postcode">BH12 1PS</string>
+    <string name="home_start">10-12-2016</string>
+    <string name="home_end">09-12-2017</string>
+    <string name="home_cover1">Buildings cover up to £200,000</string>
+    <string name="home_cover2">Contents cover up to £60,000</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="pet_insurance">LV= Pet Insurance</string>
+    <string name="pet_policy_number">21000000003</string>
+    <string name="pet_name">Rex - Dog</string>
+
+    <!-- Pet Page -->
+    <string name="pet_policy_details">Policy number: </string>
+    <string name="pet_details">Cover details: </string>
+    <string name="pet_cover_start">Vehicle cover start date: </string>
+    <string name="pet_cover_end">Vehicle cover end date: </string>
+    <string name="pet_name_only">Rex</string>
+    <string name="pet_type">Dog - Labrador</string>
+    <string name="pet_cover1">Vet fees up to £7,000</string>
+    <string name="pet_cover2">Lost pet cover</string>
+    <string name="pet_cover3">Dental cover, cost included in Vet fee cover</string>
+    <string name="pet_start">25-02-2017</string>
+    <string name="pet_end">24-02-2018</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="member_offers">LV= Member Offers</string>
+    <string name="members_subheader">Member discounts available from 5%</string>
+
+    <!-- Discounts Page -->
+    <string name="discount_header">Members only discounts: </string>
+    <string name="caravan_title">Caravan - </string>
+    <string name="caravan_discount">10%</string>
+    <string name="travel_title">Travel - </string>
+    <string name="travel_discount">5%</string>
+    <string name="motorbike_title">Motorbike - </string>
+    <string name="motorbike_discount">10%</string>
+
+</resources>
